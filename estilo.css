@@ -1,0 +1,14 @@
+
+.cabecalho{
+    background-color: aqua;
+
+
+}
+
+
+
+.cabecalho-item{
+     justify-content: right;
+     display: inline-block;
+
+}
