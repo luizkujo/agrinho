@@ -1,11 +1,12 @@
+*{
+    margin: 0;
+}
 
 .cabecalho{
     background-color: aqua;
 
 
 }
-
-
 
 .cabecalho-item{
      justify-content: right;
