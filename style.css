@@ -12,7 +12,7 @@
     font-family: 'Fredoka';
 }
 .texto-um{
-    justify-content: right;
+  align-items: center;
     font-size: 25px;
 
 }
