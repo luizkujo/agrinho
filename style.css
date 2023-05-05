@@ -12,6 +12,6 @@
     font-family: 'Fredoka';
 }
 .texto-um{
-    position: right;
+    justify-content: right;
 
 }
