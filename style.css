@@ -3,13 +3,9 @@
     padding: 0;
 }
 
-.cabecalho{
+.menu{
     background-color: aqua;
-  
-}
-
-.cabecalho-item{
-     justify-content: right;
-     display: inline-block;
+    padding: 100%;
+    
 
 }
