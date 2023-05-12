@@ -15,8 +15,12 @@
 .menu-item{
     padding-top: 30vh;
     padding-left: 60px;
+
 }
 .background{
 background-color: #311210;
 
 }
+li { 
+     list-style-type: none;
+ }
