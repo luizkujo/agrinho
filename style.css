@@ -26,7 +26,7 @@ background-color: #530700;
 li { 
      list-style-type: none;
  }
- txt-pricipal{
+ body{
     display: grid;
     grid-template-columns: 20% 80%;
 
