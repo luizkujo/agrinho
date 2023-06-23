@@ -16,7 +16,8 @@
     padding-top: 30vh;
     padding-left: 75px;
     display: inline-block;
-    color: white;
+    color: #E80000;
+    box-shadow: inset 4px 4px 4px 0 #FF0000;
 
 }
 .background{
@@ -44,8 +45,4 @@ li {
     padding-top: 100px;
    height: 500px;
    width: 400px;
- }
-  .menu-item2{
-    position:absolute;
-
  }
