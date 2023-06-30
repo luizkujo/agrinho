@@ -17,7 +17,7 @@
     padding-left: 15px;
     display: inline-block;
     color: #E80000;
-    text-decoration: none;
+   
     
 
 }
@@ -52,4 +52,7 @@ li {
     color: #E80000;
     text-shadow: 0px 4px 4px  #FF0000;
    
+ }
+ .decoration{
+    text-decoration: none;
  }
