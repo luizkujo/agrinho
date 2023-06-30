@@ -3,27 +3,21 @@
     margin: 0;
     padding: 0;
 }
-
 .menu{
     background-color: #2D2C2C;
     width: 230px;
     height: 3000px;
     font-size: 25px;
-    font-family: 'Fredoka';
-    
+    font-family: 'Fredoka';   
 }
 .menu-item{
     padding-top: 30vh;
     padding-left: 15px;
     display: inline-block;
     color: #E80000;
-   
-    
-
 }
 .background{
 background-color: #530700;
-
 }
 li { 
      list-style-type: none;
@@ -31,15 +25,12 @@ li {
  body{
     display: grid;
     grid-template-columns:20% 50% 30%;
-   
-
  }
  .txt{
     padding-top: 50px;
     padding-right: 100px ;
     font-family: 'Fredoka';
     color: white;
-
  }
  .img-principal{
     padding-right:100px ;
