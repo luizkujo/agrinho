@@ -45,3 +45,7 @@ li {
     text-decoration: none;
    
  }
+.area-1, .area-2, .area-3{
+visibility: hidden;
+
+}
