@@ -15,6 +15,7 @@
     padding-left: 15px;
     display: inline-block;
     color: #E80000;
+    text-decoration: none;
 }
 .background{
 background-color: #530700;
@@ -35,14 +36,14 @@ li {
  .img-principal{
     padding-right:100px ;
     padding-top: 100px;
-   height: 500px;
-   width: 400px;
+    height: 500px;
+    width: 400px;
  }
 
  .txt-menu2{
     color: #E80000;
     text-shadow: 0px 4px 4px  #FF0000;
- text-decoration: none;
+    text-decoration: none;
    
  }
  .txt-decoration{
