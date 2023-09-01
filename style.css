@@ -16,6 +16,7 @@
     padding-left: 15px;
     display: inline-block;
     color: #E80000;
+    transform: scale(0.75);
 
 }
 .background{
@@ -44,7 +45,4 @@ li {
  .txt-menu2{
     color: #E80000;
     text-shadow: 0px 4px 4px  #FF0000;
-    
-
-
  }
