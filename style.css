@@ -1,6 +1,6 @@
 @keyframes slidein{
- from{background-color: #530700;}
- to{background-color: #2D2C2C;}
+ from{background-color: #530700; width: 0px;}
+ to{background-color: #2D2C2C;width: 230px;}
 }
 
 
