@@ -3,8 +3,8 @@
  to{background-color: #2D2C2C;width: 230px; }
 }
 @keyframes animation{
- from {height: 0vh;}
-to{height: 30vh;}
+ from {visibility: hidden;}
+to{visibility: visible;}
 }
 
 
