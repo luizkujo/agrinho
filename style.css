@@ -16,7 +16,7 @@
     height: 3000px;
     font-size: 25px;
     font-family: 'Fredoka';   
-    text-decoration: none;
+    
     animation-name: slidein;
     animation-duration: 4s;
 }
@@ -25,7 +25,7 @@
     padding-left: 15px;
     display: inline-block;
     color: #E80000;
-    text-decoration: none;
+  
 
 }
 .background{
@@ -56,3 +56,7 @@ li {
     text-shadow: 0px 4px 4px  #FF0000;
  }
  
+ .txt-decoration{ 
+   text-decoration: none;
+
+ }
