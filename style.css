@@ -3,8 +3,8 @@
  to{background-color: #2D2C2C;width: 230px; }
 }
 @keyframes animation{
- from {height: 0px;}
-to{height: ;}
+ from {height: 0vh;}
+to{height: 30vh;}
 }
 
 
@@ -25,7 +25,7 @@ to{height: ;}
 }
 .menu-item{
     padding-top: 30vh;
-    padding-left: 20px;
+    padding-left: 15px;
     display: inline-block;
     color: #E80000;
     text-shadow: 0px 4px 4px #FF0000;
