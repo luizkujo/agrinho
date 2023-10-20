@@ -7,6 +7,18 @@
 to{visibility: visible;}
 }
 
+@keyframes fade-in {
+   from {
+      transform: translateX(0%);
+    }
+  
+    to {
+      transform: translateX(100%);
+    }
+  }
+
+
+
 
 
 
@@ -47,7 +59,7 @@ li {
     padding-top: 50px;
     padding-right: 100px ;
     font-family: 'Fredoka';
-    color: white;
+    animation-name: fade-in;
     
  }
  .img-principal{
