@@ -3,9 +3,14 @@
  to{background-color: #2D2C2C;width: 230px; }
 }
 @keyframes animation{
- from {visibility: hidden;}
-to{visibility: visible;}
-}
+   from {
+      transform: translateX(0%);
+    }
+  
+    to {
+      transform: translateX(100%);
+    }
+  }
 
 @keyframes fade-in {
    from {
